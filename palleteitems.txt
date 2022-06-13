@@ -1,0 +1,6 @@
+palleteitems
+
+ground
+coin
+spike
+beacon (start e end)
